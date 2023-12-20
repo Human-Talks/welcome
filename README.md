@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-👋 Bienvenue chez les Human Talks. Dans ce repo, tu toruveras toutes les informations pour organiser et suivre les guidelines des Human Talks.
+👋 Bienvenue chez les Human Talks. Dans ce repo, tu trouveras toutes les informations pour organiser et suivre les guidelines des Human Talks.
 
 ⚠️ Cette documentation est en cours de construction ⚠️
 
@@ -14,7 +14,7 @@ Un groupe [Meetup](https://www.meetup.com/fr-FR/) est disponible par ville. Si t
 ## L'organisation
 
 - Slack, 
-- Mail human talks par ville
+- Mail Human Talks par ville
 
 ## La communication
 
@@ -23,8 +23,8 @@ Un groupe [Meetup](https://www.meetup.com/fr-FR/) est disponible par ville. Si t
 
 ### Youtube
 - Les vidéos
-- charte graphique
-- montage vidéo
+- Charte graphique
+- Montage vidéo
 
 
 ## Comment échanger avec les autres orgnisateurs
@@ -33,4 +33,4 @@ Un groupe [Meetup](https://www.meetup.com/fr-FR/) est disponible par ville. Si t
 
 ## Comment créer (ou relancer) un Human Talks dans ta ville ?
 
-Tu peux contacter Camille et Matthieu  <à compléter>.
+Tu peux contacter Camille et Matthieu hello+humantalks@humancoders.com.
